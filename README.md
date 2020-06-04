@@ -1,4 +1,4 @@
-# c1-components
+# Password revealing
 
 ## Project setup
 ```
